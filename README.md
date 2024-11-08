@@ -3,23 +3,9 @@
 
 **`Professor de Tecnologia da Informação`**
 
-Me chamo Julliano-Otoni,
+Me chamo Julliano-Otoni, sou professor de tecnologia da informação, tenho formação em Informática para Gestão de Negócios (FATEC-Botucatu,SP), possuo Mestrado em Biotecnologia (UNESP- Botucatu,SP). Atualmente sou professor de Tecnologia da Informação na ETEC - Botucatu onde ministro aulas de Programação WEB I, II e III, Banco de Dados II, Análise e projeto de sistemas,  Desenvolvimento de Sistemas e Aplicativos Informatizados.
 
 <p align="left">
-    <a href="">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src=""
-        />
-    </a>
-    <a href="">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src=""
-        />
-    </a> 
     <a href="https://github.com/Julliano-Otoni?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -36,7 +22,6 @@ Me chamo Julliano-Otoni,
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -64,7 +49,8 @@ Me chamo Julliano-Otoni,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<!--<img 
+<!--
+<img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
@@ -87,7 +73,8 @@ Me chamo Julliano-Otoni,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/> -->
+/>
+-->
 <img 
     align="left" 
     alt="Bootstrap"
@@ -112,7 +99,8 @@ Me chamo Julliano-Otoni,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/><!---->
+/>
+<!---->
 <img 
     align="left" 
     alt="PHP" 
@@ -130,7 +118,7 @@ Me chamo Julliano-Otoni,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<!---->
+<!--
 <img 
     align="left" 
     alt="JQuery" 
@@ -155,7 +143,7 @@ Me chamo Julliano-Otoni,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+-->
 <br/>
 <br/>
 
