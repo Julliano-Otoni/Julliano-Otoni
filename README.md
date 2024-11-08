@@ -3,7 +3,7 @@
 
 **`Professor de Tecnologia da Informação`**
 
-Me chamo Julliano-Otoni, sou formado em Informática para Gestão de Negócios (FATEC-Botucatu,SP), possuo Mestrado em Biotecnologia (UNESP- Botucatu,SP). Atualmente sou professor de Tecnologia da Informação na ETEC - Botucatu onde ministro aulas de Programação WEB I, II e III, Banco de Dados II, Análise e projeto de sistemas,  Desenvolvimento de Sistemas e Aplicativos Informatizados.
+Me chamo Julliano-Otoni, sou formado em Informática para Gestão de Negócios (FATEC-Botucatu,SP), possuo Mestrado em Biotecnologia (UNESP- Botucatu,SP). Atualmente sou Professor de Tecnologia da Informação na ETEC - Botucatu onde ministro aulas de Programação WEB I, II e III, Banco de Dados II, Análise e projeto de sistemas,  Desenvolvimento de Sistemas e Aplicativos Informatizados.
 
 <p align="left">
     <a href="https://github.com/Julliano-Otoni?tab=repositories&sort=stargazers">
